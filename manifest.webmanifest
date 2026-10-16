@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "NEGM WEB LAB",
+  "short_name": "NEGM LAB",
+  "description": "استوديو معاينة وإدارة مشاريع الويب",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
